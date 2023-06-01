@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "zad2": {
+      "commandName": "Project",
+      "commandLineArgs": "C:/Users/Michal/Desktop/dane1.txt\r\nC:/Users/Michal/Desktop/dane2.txt"
+    }
+  }
+}
